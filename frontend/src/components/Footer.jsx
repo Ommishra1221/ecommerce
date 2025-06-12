@@ -30,13 +30,13 @@ const Footer = () => {
                     </p>
                     <ul className="flex flex-col gap-1 text-gray-600">
                         <li>+212-456-7890</li>
-                        <li>contact@Royalking.com</li>
+                        <li>contact@royalking.com</li>
                     </ul>
                 </div>
             </div>
             <div className="">
                 <hr />
-                <p className="py-5 text-sm text-center">Copyright 2025@ forever.com - All Rights  Reserved.</p>
+                <p className="py-5 text-sm text-center">Copyright 2025@ royalking.com - All Rights  Reserved.</p>
             </div>
 
         </div>
